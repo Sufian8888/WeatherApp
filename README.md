@@ -1,2 +1,2 @@
 # WeatherApp
-I use React.js in this peoject
+I use React.js in this project
